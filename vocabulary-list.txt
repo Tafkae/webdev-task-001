@@ -1,112 +1,280 @@
-API: A set of functions and tools for building software applications, often interacting with external systems.
+<li>
+<dt>API</dt>
+<dd>A set of functions and tools for building software applications, often interacting with external systems.</dd>
+</li>
 
-Async/Await: Syntax for handling asynchronous operations more easily than with callbacks or promises.
+<li>
+<dt>Async/Await</dt>
+<dd>Syntax for handling asynchronous operations more easily than with callbacks or promises.</dd>
+</li>
 
-Attribute: Provides additional information about an HTML element.
+<li>
+<dt>Attribute</dt>
+<dd>Provides additional information about an HTML element.</dd>
+</li>
 
-Block-Level Element: An element that starts on a new line and takes up the full width available.
+<li>
+<dt>Block-Level Element</dt>
+<dd>An element that starts on a new line and takes up the full width available.</dd>
+</li>
 
-Box Model: The model that represents the content, padding, border, and margin of an element.
+<li>
+<dt>Box Model</dt>
+<dd>The model that represents the content, padding, border, and margin of an element.</dd>
+</li>
 
-Browser: A software application used to access and display web pages.
+<li>
+<dt>Browser</dt>
+<dd>A software application used to access and display web pages.</dd>
+</li>
 
-Callback: A function passed as an argument to another function to be executed later.
+<li>
+<dt>Callback</dt>
+<dd>A function passed as an argument to another function to be executed later.</dd>
+</li>
 
-CDN (Content Delivery Network): A network of servers that distribute content closer to users for faster loading times.
+<li>
+<dt>CDN (Content Delivery Network)</dt>
+<dd>A network of servers that distribute content closer to users for faster loading times.</dd>
+</li>
 
-Class: A selector in CSS used to apply styles to elements.
+<li>
+<dt>Class</dt>
+<dd>A selector in CSS used to apply styles to elements.</dd>
+</li>
 
-Client-Side: Refers to actions or scripts that run in the user's browser.
+<li>
+<dt>Client-Side</dt>
+<dd>Refers to actions or scripts that run in the user's browser.</dd>
+</li>
 
-CMS (Content Management System): Software that helps users create, manage, and modify content on a website without needing to code.
+<li>
+<dt>CMS (Content Management System)</dt>
+<dd>Software that helps users create, manage, and modify content on a website without needing to code.</dd>
+</li>
 
-CSS (Cascading Style Sheets): The language used to style and layout HTML documents.
+<li>
+<dt>CSS (Cascading Style Sheets)</dt>
+<dd>The language used to style and layout HTML documents.</dd>
+</li>
 
-CSS Grid: A two-dimensional layout system in CSS that provides more control over how web content is arranged.
+<li>
+<dt>CSS Grid</dt>
+<dd>A two-dimensional layout system in CSS that provides more control over how web content is arranged.</dd>
+</li>
 
-Cross-Browser Compatibility: Ensuring a website works correctly on different browsers and devices.
+<li>
+<dt>Cross-Browser Compatibility</dt>
+<dd>Ensuring a website works correctly on different browsers and devices.</dd>
+</li>
 
-CSS Reset/Normalize: A set of rules that remove browser inconsistencies in default styling.
+<li>
+<dt>CSS Reset/Normalize</dt>
+<dd>A set of rules that remove browser inconsistencies in default styling.</dd>
+</li>
 
-DNS (Domain Name System): Translates domain names into IP addresses.
+<li>
+<dt>DNS (Domain Name System)</dt>
+<dd>Translates domain names into IP addresses.</dd>
+</li>
 
-DOM (Document Object Model): The programming interface for web documents, allowing dynamic changes to HTML and CSS.
+<li>
+<dt>DOM (Document Object Model)</dt>
+<dd>The programming interface for web documents, allowing dynamic changes to HTML and CSS.</dd>
+</li>
 
-Domain Name: The address used to access a website.
+<li>
+<dt>Domain Name</dt>
+<dd>The address used to access a website.</dd>
+</li>
 
-Element: The basic building blocks of HTML, made up of tags and content.
+<li>
+<dt>Element</dt>
+<dd>The basic building blocks of HTML, made up of tags and content.</dd>
+</li>
 
-Em (Unit): A relative CSS unit used to define size, based on the font size of the element.
+<li>
+<dt>Em (Unit)</dt>
+<dd>A relative CSS unit used to define size, based on the font size of the element.</dd>
+</li>
 
-Event: An action that occurs in the browser, such as a click or key press.
+<li>
+<dt>Event</dt>
+<dd>An action that occurs in the browser, such as a click or key press.</dd>
+</li>
 
-Event Listener: A JavaScript method used to handle events like clicks and keypresses.
+<li>
+<dt>Event Listener</dt>
+<dd>A JavaScript method used to handle events like clicks and keypresses.</dd>
+</li>
 
-Flexbox: A layout model that allows elements to be aligned and distributed within a container.
+<li>
+<dt>Flexbox</dt>
+<dd>A layout model that allows elements to be aligned and distributed within a container.</dd>
+</li>
 
-FTP (File Transfer Protocol): A method of transferring files between computers over a network.
+<li>
+<dt>FTP (File Transfer Protocol)</dt>
+<dd>A method of transferring files between computers over a network.</dd>
+</li>
 
-Full Stack Development: Involves both front-end (client-side) and back-end (server-side) development.
+<li>
+<dt>Full Stack Development</dt>
+<dd>Involves both front-end (client-side) and back-end (server-side) development.</dd>
+</li>
 
-Function: A block of code designed to perform a task in programming.
+<li>
+<dt>Function</dt>
+<dd>A block of code designed to perform a task in programming.</dd>
+</li>
 
-Git: A version control system that helps developers track changes to code.
+<li>
+<dt>Git</dt>
+<dd>A version control system that helps developers track changes to code.</dd>
+</li>
 
-HTML (Hypertext Markup Language): The standard language used to create web pages.
+<li>
+<dt>HTML (Hypertext Markup Language)</dt>
+<dd>The standard language used to create web pages.</dd>
+</li>
 
-HTTP/HTTPS: Hypertext Transfer Protocol, the foundation of any data exchange on the Web. HTTPS adds security via encryption.
+<li>
+<dt>HTTP/HTTPS</dt>
+<dd>Hypertext Transfer Protocol, the foundation of any data exchange on the Web. HTTPS adds security via encryption.</dd>
+</li>
 
-ID: A unique identifier for an element in HTML and CSS.
+<li>
+<dt>ID</dt>
+<dd>A unique identifier for an element in HTML and CSS.</dd>
+</li>
 
-Inline Element: An element that does not start on a new line and only takes up as much width as necessary.
+<li>
+<dt>Inline Element</dt>
+<dd>An element that does not start on a new line and only takes up as much width as necessary.</dd>
+</li>
 
-IP Address: A unique numerical address identifying a device on a network.
+<li>
+<dt>IP Address</dt>
+<dd>A unique numerical address identifying a device on a network.</dd>
+</li>
 
-JavaScript: A programming language used to create dynamic and interactive effects within web browsers.
+<li>
+<dt>JavaScript</dt>
+<dd>A programming language used to create dynamic and interactive effects within web browsers.</dd>
+</li>
 
-Media Query: A CSS feature used to apply styles based on device characteristics, like screen width.
+<li>
+<dt>Media Query</dt>
+<dd>A CSS feature used to apply styles based on device characteristics, like screen width.</dd>
+</li>
 
-Metadata: Information about a webpage, such as the title and description, typically stored in the head section of an HTML document.
+<li>
+<dt>Metadata</dt>
+<dd>Information about a webpage, such as the title and description, typically stored in the head section of an HTML document.</dd>
+</li>
 
-Mobile-First Design: Designing web content first for mobile devices, then enhancing for larger screens.
+<li>
+<dt>Mobile-First Design</dt>
+<dd>Designing web content first for mobile devices, then enhancing for larger screens.</dd>
+</li>
 
-Padding: Space between the content and the border of an element in the CSS box model.
+<li>
+<dt>Padding</dt>
+<dd>Space between the content and the border of an element in the CSS box model.</dd>
+</li>
 
-Property: Defines the aspect of an element to be styled in CSS.
+<li>
+<dt>Property</dt>
+<dd>Defines the aspect of an element to be styled in CSS.</dd>
+</li>
 
-Pseudo-Class: A keyword added to a selector in CSS that specifies a special state of the selected element.
+<li>
+<dt>Pseudo-Class</dt>
+<dd>A keyword added to a selector in CSS that specifies a special state of the selected element.</dd>
+</li>
 
-Pseudo-Element: A keyword added to a selector in CSS that allows you to style parts of an element.
+<li>
+<dt>Pseudo-Element</dt>
+<dd>A keyword added to a selector in CSS that allows you to style parts of an element.</dd>
+</li>
 
-Responsive Design: A design approach where web content adjusts to various screen sizes.
+<li>
+<dt>Responsive Design</dt>
+<dd>A design approach where web content adjusts to various screen sizes.</dd>
+</li>
 
-Script: A block of code that can be used to add functionality to a webpage, often written in JavaScript.
+<li>
+<dt>Script</dt>
+<dd>A block of code that can be used to add functionality to a webpage, often written in JavaScript.</dd>
+</li>
 
-Selector: A CSS statement used to target HTML elements for styling.
+<li>
+<dt>Selector</dt>
+<dd>A CSS statement used to target HTML elements for styling.</dd>
+</li>
 
-Semantic HTML: HTML that conveys meaning about its content beyond just its presentation.
+<li>
+<dt>Semantic HTML</dt>
+<dd>HTML that conveys meaning about its content beyond just its presentation.</dd>
+</li>
 
-Server-Side: Refers to actions or scripts that run on a web server.
+<li>
+<dt>Server-Side</dt>
+<dd>Refers to actions or scripts that run on a web server.</dd>
+</li>
 
-SSL (Secure Sockets Layer): A protocol for encrypting information sent between a browser and a web server.
+<li>
+<dt>SSL (Secure Sockets Layer)</dt>
+<dd>A protocol for encrypting information sent between a browser and a web server.</dd>
+</li>
 
-Tag: Defines the start and end of an HTML element.
+<li>
+<dt>Tag</dt>
+<dd>Defines the start and end of an HTML element.</dd>
+</li>
 
-URL (Uniform Resource Locator): The address used to access a resource on the internet.
+<li>
+<dt>URL (Uniform Resource Locator)</dt>
+<dd>The address used to access a resource on the internet.</dd>
+</li>
 
-User Agent: Information about the browser, operating system, and device, often sent to web servers.
+<li>
+<dt>User Agent</dt>
+<dd>Information about the browser, operating system, and device, often sent to web servers.</dd>
+</li>
 
-Variable: A container for storing data values in programming.
+<li>
+<dt>Variable</dt>
+<dd>A container for storing data values in programming.</dd>
+</li>
 
-Version Control: A system that records changes to a file or set of files over time.
+<li>
+<dt>Version Control</dt>
+<dd>A system that records changes to a file or set of files over time.</dd>
+</li>
 
-Viewport: The visible area of a web page on a device.
+<li>
+<dt>Viewport</dt>
+<dd>The visible area of a web page on a device.</dd>
+</li>
 
-Web Hosting: A service that allows organizations and individuals to post a website on the internet.
+<li>
+<dt>Web Hosting</dt>
+<dd>A service that allows organizations and individuals to post a website on the internet.</dd>
+</li>
 
-Web Server: A computer that hosts websites and serves them to users' browsers.
+<li>
+<dt>Web Server</dt>
+<dd>A computer that hosts websites and serves them to users' browsers.</dd>
+</li>
 
-White-Space: In CSS, controls the display of spaces, line breaks, and tabs.
+<li>
+<dt>White-Space</dt>
+<dd>In CSS, controls the display of spaces, line breaks, and tabs.</dd>
+</li>
 
-XML (eXtensible Markup Language): A language designed to store and transport data.
+<li>
+<dt>XML (eXtensible Markup Language)</dt>
+<dd>A language designed to store and transport data.</dd>
+</li>
 
